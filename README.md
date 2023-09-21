@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KarstenStig
+- 👀 I’m interested in Home Assistant and Ferroamp Energyhub stuff
